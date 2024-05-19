@@ -1,0 +1,65 @@
+.head_ul {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+.head_ul ul {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    padding: 0;
+}
+.head_ul ul li {
+    color: black;
+    cursor: pointer;
+    font-size: 10px;
+    font-weight: 700;
+}
+.head_ul p {
+    color: black;
+    cursor: pointer;
+    font-size: 10px;
+    font-weight: 700;
+}
+.head_ul ul li:hover {
+    background-color: #f41068;
+    color: #fff;
+    padding: 10px 20px;
+}
+.head_ul p:hover {
+    background-color: #f41068;
+    color: #fff;
+    padding: 10px 20px;
+}
+.head_wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.head_wrap ul {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    padding: 0;
+}
+.head_wrap li a {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+    font-weight: 700;
+}
+.head_wrap ul li a:hover {
+    color: #f41068;
+}
+.head_wrap .pages:hover .head_page {
+    display: block;
+}
+.head_page {
+    display: none;
+}
+.head_wrap .pages i {
+    color: black;
+    font-size: 16px;
+}

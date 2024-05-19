@@ -1,0 +1,49 @@
+.shop_deal{
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 0;
+}
+.shop_deal h3{
+ text-align: center;
+}
+.shop_deal p{
+ font-size: 14px;
+ text-align: center;
+
+}
+.shop_deal_img{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.shop_deal_img .shop_box{
+    width: 23%;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.shop_deal_img .shop_box img{
+    width: 100%;
+}
+.shop_deal_img .shop_box h5{
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+   padding-top: 10px;
+    font-weight: 600;
+}
+.shop_deal_img .shop_box h2{
+    font-weight:700;
+    font-size: 18px;
+}
+.shop_deal_img .shop_box button{
+    background-color:pink;
+    border-color: transparent;
+    margin-right: 15px;
+    padding: 3px 20px ;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}

@@ -1,0 +1,43 @@
+.shop_deal{
+    background-image:
+    linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)),
+    url('https://preview.colorlib.com/theme/shop/img/men-bg.jpg.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 0;
+}
+.shop_deal h3{
+    color: white;
+    text-align: center;
+
+}
+.shop_deal p{
+    color: white;
+ font-size: 14px;
+ text-align: center;
+}
+.shop_deal_img{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.shop_deal_img .shop_box{
+    width: 23%;
+    margin-right: 10px;
+    color: white;
+}
+.shop_deal_img .shop_box img{
+    width: 100%;
+}
+.shop_deal_img .shop_box h5{
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    color: white;
+   padding-top: 10px;
+    font-weight: 600;
+}
+.shop_deal_img .shop_box h2{
+    font-weight:700;
+    font-size: 18px;
+    color: white;
+}

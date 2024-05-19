@@ -1,0 +1,41 @@
+{
+  "message": "succes",
+  "data": [
+    {
+      "_id": "6647755b0356e7ee4c3e82dd",
+      "imgSrc": " https://preview.colorlib.com/theme/shop/img/l5.jpg.webp",
+      "title": "Long Sleeve shirt",
+      "price": 150,
+      "createdAt": "2024-05-17T15:18:51.623Z",
+      "updatedAt": "2024-05-17T15:18:51.623Z",
+      "__v": 0
+    },
+    {
+      "_id": "664775880356e7ee4c3e82df",
+      "imgSrc": "https://preview.colorlib.com/theme/shop/img/l6.jpg.webp",
+      "title": "Long Sleeve shirt",
+      "price": 150,
+      "createdAt": "2024-05-17T15:19:36.005Z",
+      "updatedAt": "2024-05-17T15:19:36.005Z",
+      "__v": 0
+    },
+    {
+      "_id": "664775990356e7ee4c3e82e2",
+      "imgSrc": "https://preview.colorlib.com/theme/shop/img/l7.jpg.webp",
+      "title": "Long Sleeve shirt",
+      "price": 150,
+      "createdAt": "2024-05-17T15:19:53.162Z",
+      "updatedAt": "2024-05-17T15:19:53.162Z",
+      "__v": 0
+    },
+    {
+      "_id": "664775a90356e7ee4c3e82e4",
+      "imgSrc": "https://preview.colorlib.com/theme/shop/img/l8.jpg.webp",
+      "title": "Long Sleeve shirt",
+      "price": 150,
+      "createdAt": "2024-05-17T15:20:09.773Z",
+      "updatedAt": "2024-05-17T15:20:09.773Z",
+      "__v": 0
+    }
+  ]
+}
